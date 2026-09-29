@@ -1,4 +1,4 @@
-# GP1
+# GP1 
 AI-powered delivery comparison and decision-support system that compares delivery options, predicts delivery times using Machine Learning, and provides personalized recommendations using Multi-Criteria Decision-Making (MCDM).
 # Smart Delivery Comparison App
 
@@ -20,7 +20,7 @@ Graduation Project I — documentation, requirements analysis, and initial syste
 **Supervisor:** Dr. Ahmed Ibrahim  
 **University:** Princess Nourah Bint Abdulrahman University
 
-## Problem
+## Problem 
 
 Users must manually compare prices, delivery fees, and delivery times across multiple delivery platforms. This process can be time-consuming and may lead to decision fatigue when users evaluate multiple options.
 
